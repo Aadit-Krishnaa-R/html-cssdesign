@@ -1,0 +1,14 @@
+.intro{
+    border: 20px;
+    background-color: red;
+    text-align: center;
+    width: 4cm;
+    padding:20px;
+    box-sizing:border-box;
+    }
+
+.main{
+    border: 20px solid black;
+    background-color: blueviolet;
+
+}
