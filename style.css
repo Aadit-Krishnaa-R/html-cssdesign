@@ -10,5 +10,5 @@
 .main{
     border: 50px solid black;
     background-color: blueviolet;
-
+    "border": 10px;
 }
